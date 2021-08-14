@@ -1,1 +1,2 @@
-# Scraping Information from the Web using Python
+# Scraping Information from the Web 
+## Implemented using Python's Beautiful Soup Module
